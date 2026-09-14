@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+# output/*
+!output/.gitkeep
+# database
+schema.sql
+# output
+database-design.json 
+requirements.json
+projects
